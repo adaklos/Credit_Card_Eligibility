@@ -5,18 +5,31 @@ Predictions were based on Default Payments of Credit Card Clients in Taiwan from
 Project consist of data cleaning, exploaratory data analysis, data preparation for machine learning algorithms, modeling, models evaluation and final conclusions.
 
 Libraries used:
+
 pandas 
+
 numpy
+
 matplotlib.pyplot
+
 seaborn
+
 sklearn
 
+
+
 Techniques used: 
+
 binary classification modeling
+
 grid search 
+
 stratify shuffle split
+
 recursive feature elimination
+
 piepelines
+
 one hot encoder
 
 
