@@ -1,4 +1,5 @@
 [**Project 1: Credit Card Eligibility**](https://github.com/adaklos/Credit_Card_Eligibility)
+
 The goal of the project was to create a model capable to establish if client applying for credit card is credible or not.
 Predictions were based on Default Payments of Credit Card Clients in Taiwan from 2005 dataset.
 
